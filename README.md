@@ -2,7 +2,6 @@
 <br />
 
 #### Tecnologias utilizadas 
-<br />
 React JS <br />
 TypeScript <br />
 Styled-Components <br />
