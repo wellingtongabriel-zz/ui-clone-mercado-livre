@@ -1,5 +1,4 @@
 ### Ui-clone mercado livre
-<br />
 
 #### Tecnologias utilizadas 
 React JS <br />
